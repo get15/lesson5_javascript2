@@ -4,23 +4,24 @@
     '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
+## Project Name:  Expense Calculator Application
 
+### Course Title:
+LIS 2360:  Web Application Development
 
-Hi there! Welcome to Cloud9 IDE!
+### Assignment Date:  
+(February 18, 2017)
 
-To get you started, we included a small hello world application.
+### Student Name:  
+(Garrett Turner)
 
-1) Open the hello-world.html file
+### Project Description:
+(In this assignment I had to add the code to be able to do the calculations for all of the different filing posibilities.)
 
-2) Click on the Preview button to open a live preview pane
+### View Project:
+(https://get15.github.io/lesson5_javascript2/)
 
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### Lessons Learned in the Assignment:
+1. (I learned how to use the document.getElementById to return the html content of an element.)
+2. (I learned how to set the tax rate for each bracket.)
+3. (I learned how to set up the code so that when you hit clear it worked.)
